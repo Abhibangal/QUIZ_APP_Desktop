@@ -1,0 +1,10 @@
+[{"Question": "What is the national bird of India?",
+  "Options": ["Eagle", "Parrot", "Peacock", "Koyal"],
+  "Answer": "3"},
+{"Question": "What is the national Animal of India?",
+  "Options": ["Tiger", "Dog", "Elephant", "Lion"],
+  "Answer": "4"},
+{"Question": "What is the Capital of India?",
+  "Options": ["Mumbai", "Delhi", "Kolkata", "Bihar"],
+    "Answer": "2"}]
+  
